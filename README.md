@@ -91,7 +91,7 @@ If you're interested in collaborating or have insights to share, feel free to re
 ### **Author**  
 **Tanvir Taushif** - Aspiring Data Analyst  
 
-Connect with me on [LinkedIn](your_linkedin_profile)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tanvir-taushif-751044204/)  
 
 ---
 
