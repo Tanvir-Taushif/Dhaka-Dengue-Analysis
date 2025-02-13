@@ -64,10 +64,10 @@ Based on the data analysis, the following actions are recommended:
 
 ## **Visualizations**  
 
-![Dashboard](image_path_here)  
-*Power BI dashboard displaying dengue test results and infection patterns.*  
+![Dengue Analysis Dashboard](Images/Dengue%20Analysis%20Dashboard.JPG)  
+*Excel dashboard displaying dengue test results and infection patterns.*  
 
-![Statistical Analysis](image_path_here)  
+![Statistical Analysis](Images/Statistical%20Analysis.JPG)  
 *Excel correlation analysis of diagnostic markers with infection outcomes.*  
 
 ---
